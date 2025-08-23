@@ -48,4 +48,4 @@ You can view the Jupyter Notebook here:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bashir-ahmed786/Olympics-Data-Analytics.git
+   [git clone https://github.com/bashir-ahmed786/Olympics-Data-Analytics.git](https://github.com/bashir-ahmed786/Olympics_Data_Analytics.git)
