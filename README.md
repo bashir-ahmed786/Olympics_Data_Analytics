@@ -32,7 +32,7 @@ The goal is to uncover patterns in Olympic history and build a machine learning 
 
 ## 📎 Notebook
 You can view the Jupyter Notebook here:  
-👉 [Olympics Data Analysis Notebook (nbviewer)](PASTE_YOUR_NBVIEWER_LINK_HERE)
+👉 [Olympics Data Analysis Notebook (nbviewer)]([PASTE_YOUR_NBVIEWER_LINK_HERE](https://nbviewer.org/github/bashir-ahmed786/Olympics_Data_Analytics/blob/main/Olympics_Data_Analysis_in_Python.ipynb))
 
 ---
 
@@ -48,4 +48,4 @@ You can view the Jupyter Notebook here:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Olympics-Data-Analytics.git
+   git clone https://github.com/bashir-ahmed786/Olympics-Data-Analytics.git
