@@ -32,7 +32,7 @@ The goal is to uncover patterns in Olympic history and build a machine learning 
 
 ## 📎 Notebook
 You can view the Jupyter Notebook here:  
-👉 [Olympics Data Analysis Notebook (nbviewer)]([PASTE_YOUR_NBVIEWER_LINK_HERE](https://nbviewer.org/github/bashir-ahmed786/Olympics_Data_Analytics/blob/main/Olympics_Data_Analysis_in_Python.ipynb))
+👉 [Olympics Data Analysis Notebook (nbviewer)](https://nbviewer.org/github/bashir-ahmed786/Olympics_Data_Analytics/blob/main/Olympics_Data_Analysis_in_Python.ipynb)
 
 ---
 
