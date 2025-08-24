@@ -45,7 +45,8 @@ You can view the Jupyter Notebook here:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   [git clone https://github.com/bashir-ahmed786/Olympics-Data-Analytics.git](https://github.com/bashir-ahmed786/Olympics_Data_Analytics.git)
+## 🔗 Connect with Me  
+
+- **LinkedIn:** [www.linkedin.com/in/bashir-ahmed-718a742aa](https://www.linkedin.com/in/bashir-ahmed-718a742aa)  
+- **Email:** [bashirahmedhfz687@gmail.com](mailto:bashirahmedhfz687@gmail.com)
+
